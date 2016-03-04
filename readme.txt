@@ -6,4 +6,5 @@ adjskfjdsfdsjkfl;dsjfkl;dsjf;ldsjf44444
 
 Creating a new branch is quick and simple.
 
+git --no-ff mode
 
